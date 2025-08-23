@@ -1,16 +1,38 @@
 ## Hi there 👋
 
 <!--
-**m-ony/m-ony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Mónica!
 
-Here are some ideas to get you started:
+🎓 I'm a student of **Information Technology Engineering** at **UPSLP**.  
+🌱 Currently learning **Git** and **GitHub**.  
+💻 I’m passionate about **software development**, especially **Backend**.  
+🚀 I want to share my projects here so they can be explored while I continue growing as a developer.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🛠️ Technologies & Languages
+- **Programming Languages:** Java · C++ · C · Python  
+- **Web:** HTML · CSS  
+- **Databases:** MySQL  
+- **Tools:** Git · GitHub · Visual Studio
+
+---
+
+## 📂 Projects
+I’ll be uploading my projects here so they can be easily accessed.  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?m-ony=m-ony&show_icons=true&theme=radical)
+
+---
+
+### 📫 How to reach me
+- ✉️ [qhdzmoni@gmail.com]  
+
+---
+
+⭐ *“Learning is a continuous process, and every line of code is one step closer to the future.”*  
+
 -->
