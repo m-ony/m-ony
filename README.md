@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--
 # 👋 Hi, I'm Mónica!
 
 🎓 I'm a student of **Information Technology Engineering** at **UPSLP**.  
@@ -34,5 +32,3 @@ I’ll be uploading my projects here so they can be easily accessed.
 ---
 
 ⭐ *“Learning is a continuous process, and every line of code is one step closer to the future.”*  
-
--->
