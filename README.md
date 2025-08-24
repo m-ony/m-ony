@@ -22,7 +22,7 @@ I’ll be uploading my projects here so they can be easily accessed.
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?m-ony=m-ony&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-ony&show_icons=true&theme=radical)
 
 ---
 
