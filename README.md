@@ -3,7 +3,7 @@
 
 🎓 I'm a student of **Information Technology Engineering** at **UPSLP**.  
 🌱 Currently learning **Git** and **GitHub**.  
-💻 I’m passionate about **software development**, especially **Backend**.  
+💻 I’m passionate about **software development** 
 🚀 I want to share my projects here so they can be explored while I continue growing as a developer.  
 
 ---
