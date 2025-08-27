@@ -30,5 +30,3 @@ I’ll be uploading my projects here so they can be easily accessed.
 - ✉️ [qhdzmoni@gmail.com]  
 
 ---
-
-⭐ *“Learning is a continuous process, and every line of code is one step closer to the future.”*  
